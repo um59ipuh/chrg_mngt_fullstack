@@ -1,0 +1,38 @@
+<h1 mat-dialog-title>Create New Record</h1>
+<div mat-dialog-content>
+  <form [formGroup]="form" (ngSubmit)="onSubmit()" class="form-container">
+    <mat-form-field appearance="fill">
+      <mat-label>Vehicle ID</mat-label>
+      <input matInput formControlName="vehicleId" required>
+      <mat-error *ngIf="form.get('vehicleId')?.hasError('required')">
+        Vehicle ID is required
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Start Time</mat-label>
+      <input matInput formControlName="startTime" type="datetime-local" required>
+      <mat-error *ngIf="form.get('startTime')?.hasError('required')">
+        Start Time is required
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>End Time</mat-label>
+      <input matInput formControlName="endTime" type="datetime-local" required>
+      <mat-error *ngIf="form.get('endTime')?.hasError('required')">
+        End Time is required
+      </mat-error>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Total Cost</mat-label>
+      <input matInput formControlName="totalCost" type="number" required>
+      <mat-error *ngIf="form.get('totalCost')?.hasError('required')">
+        Total Cost is required
+      </mat-error>
+    </mat-form-field>
+    <div mat-dialog-actions class="action-buttons">
+      <button mat-button type="button" (click)="onCancel()">Cancel</button>
+      <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">Create</button>
+    </div>
+  </form>
+</div>
+

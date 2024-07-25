@@ -1,0 +1,29 @@
+.welcome-card {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.actions {
+  margin-top: 20px;
+}
+
+mat-card-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+mat-card-title small {
+  display: block;
+  font-size: 16px;
+  color: #757575;
+}
+
+mat-card-content p.lead {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+button[mat-raised-button] {
+  margin: 0 10px;
+}

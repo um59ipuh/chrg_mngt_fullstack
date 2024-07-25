@@ -1,0 +1,10 @@
+services:
+  angular-app:
+    container_name: dcs-crm-ui-container
+    image: dcs-crm-ui-image
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
+    restart: always

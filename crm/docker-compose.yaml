@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  backend:
+    container_name: crm-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: crm-api-img
+    ports:
+      - "8080:8080"
+    restart: always
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge

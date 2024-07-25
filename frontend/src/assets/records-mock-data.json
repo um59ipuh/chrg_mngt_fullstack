@@ -1,0 +1,601 @@
+[{
+  "endTime": "2024-01-16 19:30:02.530",
+  "sessionId": 1,
+  "startTime": "2024-01-16 19:25:02.530",
+  "totalCost": 838,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 19:35:02.530",
+  "sessionId": 2,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1250,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 19:40:02.530",
+  "sessionId": 3,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 642,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 19:45:02.530",
+  "sessionId": 4,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1101,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 19:50:02.530",
+  "sessionId": 5,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 585,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 19:55:02.530",
+  "sessionId": 6,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1106,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 20:00:02.530",
+  "sessionId": 7,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 889,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 20:05:02.530",
+  "sessionId": 8,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1214,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 20:10:02.530",
+  "sessionId": 9,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 745,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 20:15:02.530",
+  "sessionId": 10,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1164,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 20:20:02.530",
+  "sessionId": 11,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 736,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 20:25:02.530",
+  "sessionId": 12,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1202,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 20:30:02.530",
+  "sessionId": 13,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 580,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 20:35:02.530",
+  "sessionId": 14,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1109,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 20:40:02.530",
+  "sessionId": 15,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 882,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 20:45:02.530",
+  "sessionId": 16,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 510,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 20:50:02.530",
+  "sessionId": 17,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1308,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 20:55:02.530",
+  "sessionId": 18,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1042,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 21:00:02.530",
+  "sessionId": 19,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1404,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 21:05:02.530",
+  "sessionId": 20,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1283,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 21:10:02.530",
+  "sessionId": 21,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1129,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 21:15:02.530",
+  "sessionId": 22,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 700,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 21:20:02.530",
+  "sessionId": 23,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 709,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 21:25:02.530",
+  "sessionId": 24,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1313,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 21:30:02.530",
+  "sessionId": 25,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1178,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 21:35:02.530",
+  "sessionId": 26,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1306,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 21:40:02.530",
+  "sessionId": 27,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1295,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 21:45:02.530",
+  "sessionId": 28,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 530,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 21:50:02.530",
+  "sessionId": 29,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1125,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 21:55:02.530",
+  "sessionId": 30,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 552,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 22:00:02.530",
+  "sessionId": 31,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1030,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 22:05:02.530",
+  "sessionId": 32,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1064,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 22:10:02.530",
+  "sessionId": 33,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 736,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 22:15:02.530",
+  "sessionId": 34,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 681,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 22:20:02.530",
+  "sessionId": 35,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 690,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 22:25:02.530",
+  "sessionId": 36,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1318,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 22:30:02.530",
+  "sessionId": 37,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1349,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 22:35:02.530",
+  "sessionId": 38,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1171,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 22:40:02.530",
+  "sessionId": 39,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 568,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 22:45:02.530",
+  "sessionId": 40,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1131,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 22:50:02.530",
+  "sessionId": 41,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 911,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 22:55:02.530",
+  "sessionId": 42,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 539,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 23:00:02.530",
+  "sessionId": 43,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 882,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 23:05:02.530",
+  "sessionId": 44,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 543,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 23:10:02.530",
+  "sessionId": 45,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1358,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 23:15:02.530",
+  "sessionId": 46,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1171,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 23:20:02.530",
+  "sessionId": 47,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 644,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 23:25:02.530",
+  "sessionId": 48,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1213,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 23:30:02.530",
+  "sessionId": 49,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 561,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 23:35:02.530",
+  "sessionId": 50,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1447,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 23:40:02.530",
+  "sessionId": 51,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 582,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-16 23:45:02.530",
+  "sessionId": 52,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1410,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-16 23:50:02.530",
+  "sessionId": 53,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1469,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-16 23:55:02.530",
+  "sessionId": 54,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 906,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 00:00:02.530",
+  "sessionId": 55,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 938,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 00:05:02.530",
+  "sessionId": 56,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 726,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 00:10:02.530",
+  "sessionId": 57,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1474,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 00:15:02.530",
+  "sessionId": 58,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1356,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 00:20:02.530",
+  "sessionId": 59,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1168,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 00:25:02.530",
+  "sessionId": 60,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 575,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 00:30:02.530",
+  "sessionId": 61,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1288,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 00:35:02.530",
+  "sessionId": 62,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1357,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 00:40:02.530",
+  "sessionId": 63,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1083,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 00:45:02.530",
+  "sessionId": 64,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1104,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 00:50:02.530",
+  "sessionId": 65,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 625,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 00:55:02.530",
+  "sessionId": 66,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1176,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 01:00:02.530",
+  "sessionId": 67,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 721,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 01:05:02.530",
+  "sessionId": 68,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 805,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 01:10:02.530",
+  "sessionId": 69,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 692,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 01:15:02.530",
+  "sessionId": 70,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1238,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 01:20:02.530",
+  "sessionId": 71,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 685,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 01:25:02.530",
+  "sessionId": 72,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1376,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 01:30:02.530",
+  "sessionId": 73,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1189,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 01:35:02.530",
+  "sessionId": 74,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1230,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 01:40:02.530",
+  "sessionId": 75,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1209,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 01:45:02.530",
+  "sessionId": 76,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 540,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 01:50:02.530",
+  "sessionId": 77,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 563,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 01:55:02.530",
+  "sessionId": 78,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1095,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 02:00:02.530",
+  "sessionId": 79,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 724,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 02:05:02.530",
+  "sessionId": 80,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1490,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 02:10:02.530",
+  "sessionId": 81,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 808,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 02:15:02.530",
+  "sessionId": 82,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 791,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 02:20:02.530",
+  "sessionId": 83,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 778,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 02:25:02.530",
+  "sessionId": 84,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1495,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 02:30:02.530",
+  "sessionId": 85,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 568,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 02:35:02.530",
+  "sessionId": 86,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 1182,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 02:40:02.530",
+  "sessionId": 87,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 726,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 02:45:02.530",
+  "sessionId": 88,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1246,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 02:50:02.530",
+  "sessionId": 89,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 531,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 02:55:02.530",
+  "sessionId": 90,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 586,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 03:00:02.530",
+  "sessionId": 91,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1228,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 03:05:02.530",
+  "sessionId": 92,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 800,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 03:10:02.530",
+  "sessionId": 93,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1322,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 03:15:02.530",
+  "sessionId": 94,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 1477,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 03:20:02.530",
+  "sessionId": 95,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 623,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 03:25:02.530",
+  "sessionId": 96,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1158,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 03:30:02.530",
+  "sessionId": 97,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 935,
+  "vehicleId": "PORSCHE1"
+}, {
+  "endTime": "2024-01-17 03:35:02.530",
+  "sessionId": 98,
+  "startTime": "2024-01-16 19:35:02.530",
+  "totalCost": 525,
+  "vehicleId": "BMW2"
+}, {
+  "endTime": "2024-01-17 03:40:02.530",
+  "sessionId": 99,
+  "startTime": "2024-01-16 19:40:02.530",
+  "totalCost": 1246,
+  "vehicleId": "AUDI3"
+}, {
+  "endTime": "2024-01-17 03:45:02.530",
+  "sessionId": 100,
+  "startTime": "2024-01-16 19:30:02.530",
+  "totalCost": 551,
+  "vehicleId": "PORSCHE1"
+}]

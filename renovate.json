@@ -1,6 +1,9 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-
+  "extends": [
+    "config:recommended"
+  ],
+  
   "description": ["before 7am on monday in every month"],
   "schedule": ["* 7-18 * * 1-5"],
 
@@ -19,28 +22,6 @@
       "groupName": "all minor and patch dependencies",
       "groupSlug": "all-minor-patch",
       "matchPackageNames": ["*"],
-      "matchUpdateTypes": [
-        "minor",
-        "patch"
-      ]
-    },
-    {
-      "description": ["Exclude all problematic libs for non major"],
-      "groupName": "all minor and patch dependencies",
-      "groupSlug": "all-minor-patch",
-      "matchPackageNames": [
-        "thelastpickle/cassandra-reaper",
-        "io.grpc:**",
-        "io.netty:**",
-        "tcnative",
-        "firebase-admin",
-        "kubernetes ingress",
-        "jjwt",
-        "logback",
-        "com.fasterxml.jackson.core:**",
-        "azure-sdk-bom"
-      ],
-      "enabled": false,
       "matchUpdateTypes": [
         "minor",
         "patch"

@@ -1,8 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:recommended"
-  ],
+  
   
   "description": ["before 7am on monday in every month"],
   "schedule": ["* 7-18 * * 1-5"],

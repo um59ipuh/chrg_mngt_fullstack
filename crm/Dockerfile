@@ -1,5 +1,5 @@
 # Builder stage
-FROM maven:3.9.2 AS maven
+FROM maven:3.9.9 AS maven
 
 COPY . /crm-api
 
@@ -7,7 +7,7 @@ WORKDIR /crm-api
 
 RUN mvn clean install
 
-FROM eclipse-temurin:19_36-jdk-focal
+FROM eclipse-temurin:19-jdk-focal
 
 ARG JAR_FILE=crm-0.0.1-SNAPSHOT.jar
 

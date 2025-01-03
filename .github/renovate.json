@@ -1,7 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>um59ipuh/github-apps-ci//.github/renovate-major.json",
-    "github>um59ipuh/github-apps-ci//.github/renovate-minor-patch.json"
-  ]
+    "https://github.com/um59ipuh/github-apps-ci/blob/main/.github/renovate-major.json?at=refs%2Fheads%2Fmain",
+    "https://github.com/um59ipuh/github-apps-ci/blob/main/.github/renovate-minor-patch.json?at=refs%2Fheads%2Fmain"
+  ],
+  "schedule": ["* * * * *"]
 }
